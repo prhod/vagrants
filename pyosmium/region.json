@@ -1,0 +1,14 @@
+{
+  "extracts": [
+    {
+      "output": "bordeaux-metropole.osh.pbf",
+      "output_format": "osh.pbf",
+      "description": "extract OSM history for Bordeaux (France)",
+      "bbox": {"left": -0.7179,
+               "right": -0.4134,
+               "top": 44.9335,
+               "bottom": 44.7216}
+     }
+  ],
+  "directory": "/srv/"
+}
